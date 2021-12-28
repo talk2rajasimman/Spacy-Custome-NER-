@@ -9,9 +9,5 @@ Implemented spacy custom model identifying skill, Job Title from job description
 
   ## Refrence 
   
-  https://spacy.io/usage/training
-  
-  https://ner.pythonhumanities.com/03_02_train_spacy_ner_model.html
-  
-  
+  https://spacy.io/usage/training#training-data
   
